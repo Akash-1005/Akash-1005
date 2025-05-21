@@ -58,48 +58,6 @@
 
 ---
 
-## 💼 Professional Experience
-
-### Database Management Assistant @ USC Auxiliary Services  
-_Dec 2023 – May 2025_  
-- Managed MySQL databases for 100+ events, optimising queries to cut data retrieval time by **20%**.  
-- Designed budget-tracking tools in Access & Excel, slashing expense discrepancies by **15%**.
-
-### Machine Learning Engineer Intern @ Eduskills Foundation, India  
-_Sep 2021 – Dec 2021_  
-- Built & optimised ML models on AWS SageMaker, boosting prediction accuracy by **15%**.  
-- Automated data-preprocessing pipelines with Pandas/NumPy, improving efficiency by **20%**.
-
-### Software Developer Intern @ Sahu Technologies, Mumbai  
-_Jun 2021 – Aug 2021_  
-- Created data-transformation scripts, reducing processing time by **50%**.  
-- Developed Flask API services to streamline ETL workflows.
-
-### Full-Stack Developer Intern @ Dcodetech, Mumbai  
-_May 2019 – Aug 2019_  
-- Crafted responsive web pages (HTML/CSS/JS), improving page speed by **15%**.  
-- Automated UI tests with Selenium, raising user engagement by **20%**.
-
----
-
-## 🌟 Featured Projects
-
-### Gesture-Based Communication System for Accessibility  
-[fairy-link to YouTube](#) • [code on GitHub](#)  
-- Real-time ASL recognition with TensorFlow & MediaPipe (95% accuracy).  
-- Flask + Bootstrap full-stack web app for seamless user interaction.
-
-### Intelligent Traffic Monitoring & Incident Detection  
-[view on GitHub](#)  
-- Accident detection with OpenCV & YOLO (90% precision).  
-- Twilio-powered alert system, cutting emergency response time by **40%**.
-
-### Color Splash (Unity Game)  
-[play it here](#) • [code on GitHub](#)  
-- Developed 10 immersive levels in Unity & C#, enhancing gameplay by **23%**.  
-- Integrated analytics to track player engagement & refine mechanics.
-
----
 
 ## 🏆 Conferences & Hackathons
 
